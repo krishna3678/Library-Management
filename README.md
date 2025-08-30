@@ -33,7 +33,7 @@ Library-Management-System/
 
 Clone this repository
 
-git clone https://github.com/krishna3678/Library-Management-System.git
+git clone https://github.com/krishna3678/Library-Management.git
 cd Library-Management-System
 
 
